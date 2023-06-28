@@ -14,8 +14,7 @@ es la rama master la que se usa para
 producción?
 
 estoy en la rama front-react 
-git checkout master   cambio a la rama master
-git pull origin master obtengo la ultima version
-git merge front-react 
-git push
+git checkout master   cambio a la rama master,
+git pull origin master obtengo la ultima version,
+git merge front-react y por ultimo git push
 
